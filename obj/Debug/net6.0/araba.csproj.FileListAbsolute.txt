@@ -1,0 +1,15 @@
+D:\Desktop\c# projeler\araba\bin\Debug\net6.0\araba.exe
+D:\Desktop\c# projeler\araba\bin\Debug\net6.0\araba.deps.json
+D:\Desktop\c# projeler\araba\bin\Debug\net6.0\araba.runtimeconfig.json
+D:\Desktop\c# projeler\araba\bin\Debug\net6.0\araba.dll
+D:\Desktop\c# projeler\araba\bin\Debug\net6.0\araba.pdb
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.csproj.AssemblyReference.cache
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.AssemblyInfoInputs.cache
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.AssemblyInfo.cs
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.csproj.CoreCompileInputs.cache
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.dll
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\refint\araba.dll
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.pdb
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\araba.genruntimeconfig.cache
+D:\Desktop\c# projeler\araba\obj\Debug\net6.0\ref\araba.dll
